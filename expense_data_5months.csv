@@ -1,0 +1,363 @@
+date,description,category,amount
+11/1/2024,Lunch,Food,872.75
+11/1/2024,Fuel,Other,1224.94
+11/1/2024,Online Order,Other,1352.29
+11/2/2024,Online Order,Rent,798.36
+11/3/2024,Electricity Bill,Travel,1467.93
+11/4/2024,Online Order,Other,394.39
+11/5/2024,Bus Ticket,Rent,915.5
+11/5/2024,Electricity Bill,Rent,232.34
+11/5/2024,Electricity Bill,Travel,209.4
+11/5/2024,Bus Ticket,Shopping,614.99
+11/6/2024,Fuel,Other,530.42
+11/6/2024,Electricity Bill,Shopping,594.42
+11/7/2024,Lunch,Other,1333.75
+11/7/2024,Electricity Bill,Rent,619.06
+11/7/2024,Fuel,Bills,403.09
+11/7/2024,Online Order,Rent,1278.52
+11/8/2024,Fuel,Rent,544.99
+11/8/2024,Fuel,Rent,826.68
+11/9/2024,Bus Ticket,Rent,1125.89
+11/9/2024,Bus Ticket,Food,438.84
+11/9/2024,Grocery,Travel,1265.27
+11/10/2024,Bus Ticket,Shopping,937.21
+11/11/2024,Lunch,Travel,658.59
+11/11/2024,Online Order,Other,1071.17
+11/12/2024,Fuel,Travel,1267.06
+11/12/2024,Bus Ticket,Shopping,741.24
+11/12/2024,Bus Ticket,Travel,604.44
+11/12/2024,Online Order,Rent,621.78
+11/13/2024,Electricity Bill,Shopping,669.14
+11/13/2024,Lunch,Shopping,1445.03
+11/13/2024,Fuel,Food,1391.27
+11/13/2024,Online Order,Other,859.96
+11/14/2024,Electricity Bill,Other,1264.93
+11/14/2024,Electricity Bill,Other,715.76
+11/14/2024,Grocery,Other,438.47
+11/15/2024,Lunch,Travel,435.57
+11/15/2024,Bus Ticket,Travel,630.11
+11/15/2024,Bus Ticket,Other,1050.01
+11/16/2024,Lunch,Shopping,1127.57
+11/16/2024,Lunch,Bills,1040.08
+11/16/2024,Electricity Bill,Shopping,1105.41
+11/17/2024,Electricity Bill,Other,421.46
+11/17/2024,Fuel,Rent,1397.98
+11/18/2024,Lunch,Shopping,309.76
+11/18/2024,Bus Ticket,Rent,649.52
+11/19/2024,Lunch,Shopping,935.27
+11/19/2024,Online Order,Bills,827.23
+11/19/2024,Online Order,Travel,107.04
+11/19/2024,Bus Ticket,Rent,479.01
+11/20/2024,Electricity Bill,Rent,646.43
+11/20/2024,Electricity Bill,Rent,1275.16
+11/20/2024,Online Order,Shopping,715.5
+11/20/2024,Grocery,Shopping,1111.26
+11/21/2024,Grocery,Rent,1133
+11/21/2024,Lunch,Rent,782.92
+11/21/2024,Bus Ticket,Rent,1185.55
+11/22/2024,Fuel,Rent,1091.04
+11/22/2024,Fuel,Other,482.26
+11/23/2024,Electricity Bill,Other,373.43
+11/23/2024,Bus Ticket,Rent,624.3
+11/23/2024,Bus Ticket,Shopping,910.79
+11/23/2024,Fuel,Other,1294.4
+11/24/2024,Electricity Bill,Other,1054.84
+11/25/2024,Bus Ticket,Shopping,1157.01
+11/25/2024,Electricity Bill,Shopping,1171.59
+11/26/2024,Fuel,Travel,1321.06
+11/26/2024,Grocery,Shopping,1438.19
+11/26/2024,Bus Ticket,Rent,1076.85
+11/27/2024,Bus Ticket,Rent,444.64
+11/27/2024,Online Order,Other,530.95
+11/27/2024,Online Order,Bills,807.23
+11/28/2024,Fuel,Rent,674.29
+11/29/2024,Lunch,Shopping,814.18
+11/30/2024,Grocery,Other,1237.96
+11/30/2024,Lunch,Travel,1291.06
+12/1/2024,Fuel,Other,649.85
+12/1/2024,Fuel,Bills,280.58
+12/1/2024,Electricity Bill,Bills,343.85
+12/2/2024,Grocery,Other,609.73
+12/2/2024,Fuel,Bills,437.68
+12/2/2024,Electricity Bill,Shopping,859.86
+12/2/2024,Grocery,Other,971.68
+12/3/2024,Bus Ticket,Travel,1089.89
+12/3/2024,Online Order,Other,832.52
+12/3/2024,Lunch,Food,905.09
+12/3/2024,Lunch,Other,776.6
+12/4/2024,Grocery,Travel,457.67
+12/5/2024,Grocery,Rent,1068.48
+12/6/2024,Online Order,Shopping,1145.01
+12/6/2024,Electricity Bill,Shopping,720.41
+12/6/2024,Fuel,Rent,1295.55
+12/7/2024,Online Order,Bills,978.57
+12/7/2024,Online Order,Travel,218.4
+12/7/2024,Lunch,Shopping,368.56
+12/7/2024,Electricity Bill,Rent,802.91
+12/8/2024,Bus Ticket,Bills,209.21
+12/8/2024,Electricity Bill,Bills,1302.58
+12/9/2024,Grocery,Travel,1335.41
+12/9/2024,Fuel,Food,374.89
+12/10/2024,Electricity Bill,Bills,1155.61
+12/10/2024,Grocery,Bills,1322.42
+12/10/2024,Electricity Bill,Rent,164.56
+12/11/2024,Grocery,Other,1417.72
+12/11/2024,Grocery,Food,283.74
+12/11/2024,Electricity Bill,Rent,1257.75
+12/12/2024,Bus Ticket,Food,1341.39
+12/13/2024,Grocery,Food,208.45
+12/13/2024,Online Order,Travel,617.95
+12/13/2024,Lunch,Bills,1115.45
+12/13/2024,Bus Ticket,Shopping,425.39
+12/14/2024,Lunch,Other,1080.2
+12/14/2024,Online Order,Other,192.7
+12/15/2024,Bus Ticket,Rent,839.8
+12/16/2024,Online Order,Travel,1026.13
+12/16/2024,Bus Ticket,Food,920.07
+12/16/2024,Fuel,Other,725.25
+12/17/2024,Bus Ticket,Travel,858.53
+12/17/2024,Bus Ticket,Shopping,972.58
+12/17/2024,Online Order,Shopping,1026.66
+12/18/2024,Electricity Bill,Shopping,668.04
+12/18/2024,Bus Ticket,Rent,940.27
+12/18/2024,Grocery,Bills,728.15
+12/19/2024,Online Order,Travel,1224.88
+12/19/2024,Fuel,Shopping,1432.22
+12/20/2024,Lunch,Food,167.92
+12/20/2024,Lunch,Other,1119.97
+12/21/2024,Grocery,Food,298.87
+12/21/2024,Grocery,Shopping,518.5
+12/21/2024,Bus Ticket,Rent,103.67
+12/21/2024,Lunch,Food,426.25
+12/22/2024,Fuel,Bills,595.81
+12/22/2024,Lunch,Rent,1257.15
+12/22/2024,Fuel,Food,299.54
+12/22/2024,Bus Ticket,Rent,307.43
+12/23/2024,Online Order,Bills,509.88
+12/23/2024,Electricity Bill,Bills,1396.03
+12/23/2024,Electricity Bill,Travel,1168.54
+12/23/2024,Online Order,Rent,249.47
+12/24/2024,Electricity Bill,Food,656.95
+12/24/2024,Fuel,Bills,536.31
+12/24/2024,Lunch,Shopping,1084.14
+12/25/2024,Electricity Bill,Shopping,960.44
+12/25/2024,Bus Ticket,Other,1215.24
+12/26/2024,Bus Ticket,Other,400.48
+12/26/2024,Grocery,Shopping,557.38
+12/26/2024,Grocery,Other,1377.97
+12/27/2024,Fuel,Other,725.5
+12/27/2024,Bus Ticket,Other,986.77
+12/28/2024,Fuel,Food,599.37
+12/28/2024,Grocery,Rent,1301.9
+12/29/2024,Online Order,Shopping,419.57
+12/29/2024,Bus Ticket,Food,701.49
+12/29/2024,Online Order,Shopping,1067.75
+12/30/2024,Fuel,Food,406.2
+12/30/2024,Fuel,Other,522.61
+12/30/2024,Grocery,Travel,673.59
+12/31/2024,Grocery,Travel,957.62
+12/31/2024,Grocery,Bills,425.68
+12/31/2024,Fuel,Food,466.73
+1/1/2025,Lunch,Shopping,843.02
+1/2/2025,Fuel,Other,381.26
+1/3/2025,Electricity Bill,Other,978.01
+1/4/2025,Fuel,Shopping,1492.83
+1/4/2025,Bus Ticket,Rent,1080.09
+1/4/2025,Online Order,Rent,366.34
+1/5/2025,Bus Ticket,Rent,116.25
+1/5/2025,Fuel,Other,1022.18
+1/6/2025,Online Order,Rent,910.28
+1/6/2025,Fuel,Shopping,1360.93
+1/6/2025,Electricity Bill,Shopping,522.04
+1/7/2025,Fuel,Food,936.73
+1/7/2025,Online Order,Rent,347.72
+1/7/2025,Fuel,Other,1090.03
+1/8/2025,Online Order,Food,355.73
+1/8/2025,Lunch,Shopping,267.76
+1/8/2025,Lunch,Travel,1280.53
+1/8/2025,Fuel,Rent,646.02
+1/9/2025,Lunch,Shopping,1194.98
+1/10/2025,Lunch,Bills,1119.68
+1/10/2025,Online Order,Travel,1466
+1/10/2025,Lunch,Food,423.41
+1/11/2025,Grocery,Other,1394.87
+1/11/2025,Fuel,Rent,242.44
+1/11/2025,Lunch,Travel,762.49
+1/12/2025,Bus Ticket,Rent,437.47
+1/12/2025,Fuel,Shopping,1395.81
+1/12/2025,Electricity Bill,Shopping,343.94
+1/12/2025,Grocery,Shopping,1190.04
+1/13/2025,Online Order,Shopping,1209.08
+1/14/2025,Bus Ticket,Bills,1036.62
+1/15/2025,Grocery,Travel,566.14
+1/15/2025,Lunch,Rent,222.59
+1/15/2025,Bus Ticket,Other,392.99
+1/16/2025,Fuel,Rent,475.08
+1/17/2025,Electricity Bill,Travel,102.83
+1/17/2025,Online Order,Rent,1361.53
+1/18/2025,Lunch,Bills,1422.94
+1/19/2025,Grocery,Food,902.69
+1/19/2025,Electricity Bill,Rent,328.73
+1/20/2025,Online Order,Other,570.95
+1/20/2025,Electricity Bill,Bills,366.1
+1/20/2025,Fuel,Food,1129.76
+1/20/2025,Electricity Bill,Other,1404.23
+1/21/2025,Bus Ticket,Travel,404.72
+1/21/2025,Lunch,Rent,749.24
+1/22/2025,Grocery,Food,711.43
+1/22/2025,Online Order,Travel,124.97
+1/22/2025,Grocery,Other,429.58
+1/23/2025,Grocery,Bills,487.36
+1/23/2025,Electricity Bill,Food,1267.28
+1/24/2025,Online Order,Shopping,435.76
+1/24/2025,Bus Ticket,Rent,476.08
+1/25/2025,Bus Ticket,Food,1478.64
+1/25/2025,Grocery,Travel,690.19
+1/25/2025,Online Order,Shopping,1076
+1/25/2025,Grocery,Shopping,171.92
+1/26/2025,Lunch,Rent,294.46
+1/26/2025,Lunch,Other,346.17
+1/26/2025,Lunch,Food,1321.08
+1/27/2025,Online Order,Travel,742.65
+1/28/2025,Fuel,Bills,315.69
+1/28/2025,Grocery,Food,1067.02
+1/29/2025,Grocery,Rent,764.98
+1/29/2025,Bus Ticket,Travel,1020.38
+1/29/2025,Bus Ticket,Travel,126.74
+1/30/2025,Fuel,Rent,264.58
+1/30/2025,Grocery,Bills,973.73
+1/30/2025,Fuel,Rent,1411.55
+1/30/2025,Lunch,Bills,1499.49
+1/31/2025,Electricity Bill,Bills,1218.83
+1/31/2025,Grocery,Other,1314.36
+1/31/2025,Electricity Bill,Food,657.41
+2/1/2025,Grocery,Shopping,400.61
+2/1/2025,Online Order,Food,179.56
+2/2/2025,Electricity Bill,Rent,584.49
+2/2/2025,Online Order,Travel,1336.02
+2/2/2025,Grocery,Shopping,1301.45
+2/3/2025,Grocery,Rent,295.49
+2/3/2025,Lunch,Bills,739.35
+2/4/2025,Online Order,Shopping,682.4
+2/4/2025,Fuel,Other,1059.51
+2/4/2025,Bus Ticket,Travel,473.25
+2/4/2025,Electricity Bill,Bills,367.89
+2/5/2025,Lunch,Shopping,693
+2/5/2025,Fuel,Bills,256.29
+2/6/2025,Bus Ticket,Bills,253.84
+2/6/2025,Bus Ticket,Shopping,150.51
+2/7/2025,Bus Ticket,Food,610.33
+2/7/2025,Bus Ticket,Rent,647.44
+2/8/2025,Electricity Bill,Bills,1214.85
+2/9/2025,Fuel,Food,786.73
+2/10/2025,Fuel,Shopping,563.07
+2/10/2025,Electricity Bill,Other,1482.81
+2/10/2025,Grocery,Rent,736.94
+2/11/2025,Fuel,Other,501.56
+2/11/2025,Fuel,Shopping,593.29
+2/12/2025,Electricity Bill,Other,222.49
+2/13/2025,Fuel,Bills,318.89
+2/13/2025,Online Order,Rent,872.41
+2/13/2025,Electricity Bill,Rent,1117.68
+2/13/2025,Lunch,Rent,761.22
+2/14/2025,Grocery,Other,737.98
+2/14/2025,Lunch,Travel,814.15
+2/14/2025,Electricity Bill,Other,918.98
+2/15/2025,Bus Ticket,Bills,671.09
+2/16/2025,Electricity Bill,Travel,952.34
+2/17/2025,Grocery,Other,1342.89
+2/17/2025,Grocery,Food,949.9
+2/17/2025,Lunch,Other,959.98
+2/17/2025,Lunch,Rent,1059.24
+2/18/2025,Fuel,Other,544.29
+2/18/2025,Grocery,Food,467.99
+2/19/2025,Grocery,Bills,1427.97
+2/19/2025,Bus Ticket,Shopping,889.37
+2/19/2025,Fuel,Travel,725.69
+2/20/2025,Electricity Bill,Food,1207.84
+2/20/2025,Lunch,Food,906.15
+2/21/2025,Electricity Bill,Rent,110.1
+2/21/2025,Electricity Bill,Bills,1120.29
+2/21/2025,Lunch,Travel,974.05
+2/21/2025,Lunch,Travel,883.99
+2/22/2025,Grocery,Other,545.31
+2/22/2025,Bus Ticket,Food,801.31
+2/23/2025,Bus Ticket,Bills,1211.06
+2/24/2025,Grocery,Shopping,749.06
+2/25/2025,Grocery,Bills,903.82
+2/26/2025,Online Order,Other,1130.72
+2/26/2025,Lunch,Shopping,356.36
+2/26/2025,Fuel,Food,948.82
+2/27/2025,Fuel,Rent,794.53
+2/27/2025,Lunch,Other,1280.91
+2/27/2025,Fuel,Other,1005.29
+2/28/2025,Fuel,Food,1147.53
+2/28/2025,Fuel,Food,708.01
+2/28/2025,Bus Ticket,Other,1215.82
+2/28/2025,Fuel,Shopping,694.09
+3/1/2025,Grocery,Travel,1049.65
+3/2/2025,Fuel,Other,464.23
+3/2/2025,Grocery,Travel,1182.18
+3/3/2025,Electricity Bill,Shopping,440.93
+3/3/2025,Bus Ticket,Bills,581.85
+3/4/2025,Online Order,Travel,591.41
+3/4/2025,Grocery,Rent,1043.11
+3/4/2025,Bus Ticket,Food,340.24
+3/4/2025,Bus Ticket,Bills,1098.89
+3/5/2025,Fuel,Other,221.31
+3/5/2025,Bus Ticket,Rent,1493.76
+3/6/2025,Electricity Bill,Bills,1068.41
+3/7/2025,Grocery,Travel,565.16
+3/8/2025,Electricity Bill,Travel,137.13
+3/8/2025,Grocery,Food,1226.43
+3/8/2025,Bus Ticket,Other,1053.27
+3/9/2025,Bus Ticket,Other,1482.88
+3/10/2025,Grocery,Other,432.88
+3/10/2025,Fuel,Shopping,733.81
+3/10/2025,Electricity Bill,Travel,974.07
+3/10/2025,Lunch,Other,1390.96
+3/11/2025,Electricity Bill,Food,1041.39
+3/11/2025,Fuel,Bills,360.68
+3/12/2025,Bus Ticket,Other,753.62
+3/12/2025,Bus Ticket,Food,1446.17
+3/13/2025,Lunch,Shopping,468.36
+3/13/2025,Bus Ticket,Food,641.28
+3/13/2025,Fuel,Shopping,999.39
+3/13/2025,Online Order,Shopping,478.15
+3/14/2025,Electricity Bill,Rent,704.84
+3/14/2025,Bus Ticket,Rent,842.78
+3/14/2025,Grocery,Travel,1224.08
+3/15/2025,Lunch,Rent,1112.08
+3/15/2025,Lunch,Other,1017.54
+3/15/2025,Lunch,Other,199.96
+3/16/2025,Online Order,Travel,658.39
+3/17/2025,Electricity Bill,Rent,1138.52
+3/17/2025,Online Order,Travel,1330.98
+3/18/2025,Lunch,Travel,953.51
+3/18/2025,Lunch,Other,581.98
+3/18/2025,Grocery,Shopping,107.15
+3/18/2025,Lunch,Food,326.5
+3/19/2025,Online Order,Food,388.7
+3/19/2025,Online Order,Bills,857.65
+3/20/2025,Online Order,Travel,331.45
+3/21/2025,Electricity Bill,Shopping,1154.45
+3/22/2025,Electricity Bill,Food,706.44
+3/23/2025,Fuel,Rent,762.77
+3/23/2025,Online Order,Food,1461.32
+3/24/2025,Electricity Bill,Other,1319.94
+3/24/2025,Electricity Bill,Bills,879.3
+3/24/2025,Online Order,Rent,1212.65
+3/25/2025,Grocery,Bills,237.65
+3/26/2025,Bus Ticket,Bills,1373.28
+3/27/2025,Online Order,Bills,321.68
+3/27/2025,Online Order,Other,1245.86
+3/27/2025,Grocery,Rent,1234.92
+3/27/2025,Lunch,Bills,980.02
+3/28/2025,Fuel,Rent,1025.12
+3/29/2025,Bus Ticket,Rent,1104.11
+3/29/2025,Bus Ticket,Rent,680.58
+3/30/2025,Lunch,Shopping,813.74
+3/30/2025,Bus Ticket,Bills,921.33
+3/30/2025,Lunch,Food,144.45
+3/31/2025,Bus Ticket,Food,886.65
+3/31/2025,Electricity Bill,Other,1239.29
