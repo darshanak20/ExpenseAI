@@ -5,7 +5,7 @@ from sklearn.linear_model import LinearRegression
 import numpy as np
 
 # -------------------------------------
-# 1️⃣ Data Preprocessing
+#  Data Preprocessing
 # -------------------------------------
 df = pd.read_csv("expense_Jan_April.csv")
 
@@ -25,7 +25,7 @@ print("Monthly Summary:\n", monthly_expense)
 print("Category Summary:\n", category_expense)
 
 # -------------------------------------
-# 2️⃣ Visualization — Bar + Line chart
+#  Visualization — Bar + Line chart
 # -------------------------------------
 
 fig = make_subplots(specs=[[{"secondary_y": True}]])
@@ -52,7 +52,7 @@ fig.update_layout(
 fig.show()
 
 # -------------------------------------
-# 3️⃣ Category-wise Expense Chart (Pie Chart)
+#  Category-wise Expense Chart (Pie Chart)
 # -------------------------------------
 
 fig2 = go.Figure(
@@ -64,7 +64,7 @@ fig2.update_layout(
 fig2.show()
 
 # -------------------------------------
-# 4️⃣ Future Expense Prediction (Regression)
+#  Future Expense Prediction (Regression)
 # -------------------------------------
 
 X = np.array(monthly_expense["month"]).reshape(-1, 1)
@@ -76,7 +76,7 @@ model.fit(X, y)
 next_month = np.array([[monthly_expense["month"].max() + 1]])
 predicted_expense = model.predict(next_month)[0]
 
-print(f"\n🔮 Predicted expense for month {next_month[0][0]}: ₹{predicted_expense:.2f}")
+print(f"\n Predicted expense for month {next_month[0][0]}: ₹{predicted_expense:.2f}")
 
 # Add predicted point to visualization
 fig3 = go.Figure()
