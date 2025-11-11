@@ -15,7 +15,7 @@ It reads financial data (CSV), cleans & transforms it, stores it into a database
 | ✅ ML Prediction | Predicts future month’s expense using scikit-learn (Linear Regression) |
 | ✅ Category Analysis | Food / Travel / Shopping / Rent / Other visual breakdown |
 | ✅ Modular Code | Clean folder structure with separate modules |
-| ✅ MySQL Integration (optional) | Stores cleaned data into DB for persistence |
+| ✅ MySQL Integration  | Stores cleaned data into DB for persistence |
 
 ---
 
@@ -28,9 +28,7 @@ It reads financial data (CSV), cleans & transforms it, stores it into a database
 | Machine Learning | scikit-learn |
 | Database | MySQL (Workbench / Server) |
 | Visualization | Plotly |
-| Design (UI idea) | Figma (optional) |
+| Design (UI idea) | Figma  |
 
 ---
-
-## 📂 Project Folder Structure
 
