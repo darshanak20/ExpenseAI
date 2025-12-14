@@ -1,34 +1,31 @@
+#ExpenseAI
 
-#ExpenseAI — Smart Expense Analysis & Prediction
+ExpenseAI is a lightweight data analytics dashboard that helps users analyze their expense data.  
+Users can upload a CSV file (or use sample data) to visualize spending patterns, detect unusual expenses, and estimate next month’s spending.
 
-ExpenseAI is a Machine Learning powered expense tracking and prediction system.  
-It reads financial data (CSV), cleans & transforms it, stores it into a database, visualizes monthly spending trends, and predicts next month’s expenses.
 
----
 
-## 🚀 Features
+## ✨ Features
 
-| Feature | Description |
-|--------|-------------|
-| ✅ CSV → DataFrame ETL Pipeline | Load & clean expense data (date formatting, category standardization, etc.) |
-| ✅ Data Visualization | Monthly trend graph (Bar + Line) using Plotly |
-| ✅ ML Prediction | Predicts future month’s expense using scikit-learn (Linear Regression) |
-| ✅ Category Analysis | Food / Travel / Shopping / Rent / Other visual breakdown |
-| ✅ Modular Code | Clean folder structure with separate modules |
-| ✅ MySQL Integration  | Stores cleaned data into DB for persistence |
+- 📂 **CSV Upload or Sample Data**
+- 🧾 **Automatic Expense Categorization**
+- 🥧 **Category-wise Spending Breakdown (Pie Chart)**
+- 📈 **Monthly Spending Trend (Line Chart)**
+- 🔮 **Next Month Expense Prediction**
+- 🚨 **Unusual Expense Detection (Anomaly Detection)**
 
----
+
 
 ## 🛠️ Tech Stack
 
-| Component | Technology |
-|----------|------------|
-| Backend | Python |
-| Data processing | Pandas |
-| Machine Learning | scikit-learn |
-| Database | MySQL (Workbench / Server) |
-| Visualization | Plotly |
-| Design (UI idea) | Figma  |
+- **Python**
+- **Pandas**
+- **Scikit-learn**
+- **Prophet** (Time-series forecasting)
+- **Streamlit** (Dashboard)
+- **Plotly** (Interactive charts)
 
----
+
+
+
 
